@@ -11,3 +11,4 @@ Solutions are in Python.
 | 476 | [Number Complement](https://leetcode.com/problems/number-complement/description/) | [Python](https://github.com/gprx100/leetcodepythonanswers/blob/master/python/number_compliment.py) |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [Python](https://github.com/gprx100/leetcodepythonanswers/blob/master/python/reverse_words_in_string.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [Python](https://github.com/gprx100/leetcodepythonanswers/blob/master/python/fizzbuzz.py) |
+| 231 | [Power of Two](https://leetcode.com/problems/power-of-two/description/) | [Python](https://github.com/gprx100/leetcodepythonanswers/blob/master/python/ispoweroftwo.py)
